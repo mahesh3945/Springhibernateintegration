@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/hibernate-ehcache-4.2.21.Final.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/jstl.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-aop-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-aspects-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-beans-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-build-src-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-context-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-context-support-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-core-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-expression-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-framework-bom-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-framework-bom-3.2.10.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-instrument-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-instrument-tomcat-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-instrument-tomcat-3.2.10.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-instrument-tomcat-3.2.10.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-jdbc-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-jms-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-orm-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-oxm-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-struts-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-test-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-tx-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-web-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-webmvc-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/springMVCwithhibernate jars/spring-webmvc-portlet-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/new java files/aopalliance-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
