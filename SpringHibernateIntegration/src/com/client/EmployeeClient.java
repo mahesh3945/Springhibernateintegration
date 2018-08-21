@@ -33,6 +33,7 @@ public class EmployeeClient {
 		employee.setEmpAddress(addres);
 		employee.setSalary(salary);
 		lisEmployee.add(employee);
+		llllll
 	}
 	service.addEmployee(lisEmployee);
 	System.out.println("Records Inserted Successfully");
