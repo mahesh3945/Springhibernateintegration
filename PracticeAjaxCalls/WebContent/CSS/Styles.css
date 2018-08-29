@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+ body{background-repeat:no-repeat;background-size:cover;background-image:url("C:/Users/Mahi Gani/Desktop/image.jpg")}
+ .datewidth{width:100%}
+ .agee{width:100%}
+ #header{top:0;background-color :cyan;}
+ #footer{bottom:0;background-color:red;position:fixed;width:99%}
+ #search{position:fixed;top:50px;right:150px;}
+ #tablee{position:fixed;top:150px;left:560px;}
+ a:hover{color:yellow;background-color: red}
+ a{text-decoration:none}
+ 
